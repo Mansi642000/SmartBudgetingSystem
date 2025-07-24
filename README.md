@@ -76,9 +76,8 @@ Existing users log in securely to access the dashboard.
 ### 📊 User Dashboard
 ![Dashboard] 
 Provides buttons for all key operations: Add/Edit Expense, Set Budget, View Report, Predict Expenses.
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213614" src="https://github.com/user-attachments/assets/e322e1ee-ba20-487e-9c98-87a03c47293b" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213550" src="https://github.com/user-attachments/assets/8a038e9d-5f2e-4d72-b491-9082000cc14e" />
-
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213614" src="https://github.com/user-attachments/assets/e322e1ee-ba20-487e-9c98-87a03c47293b" />
 ---
 
 ### ➕ Add Expense
