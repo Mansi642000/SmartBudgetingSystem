@@ -96,17 +96,16 @@ Displays all expenses in a table with options to edit or delete.
 ### ✏️ Edit Expense
 ![Edit Expense] 
 Users can modify any previous entry's details.
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213909" src="https://github.com/user-attachments/assets/af3e5de7-9bc4-4e48-b078-0fa300387884" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213855" src="https://github.com/user-attachments/assets/ea6ce72d-a325-40c9-8ef1-04ad0907060e" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213824" src="https://github.com/user-attachments/assets/23f2ef98-aa03-4cc4-82c2-1c62b5a9614c" />
-
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213855" src="https://github.com/user-attachments/assets/ea6ce72d-a325-40c9-8ef1-04ad0907060e" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213909" src="https://github.com/user-attachments/assets/af3e5de7-9bc4-4e48-b078-0fa300387884" />
 ---
 
 ## 📈 Visualization Snapshot  
-
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214522" src="https://github.com/user-attachments/assets/5adf3d8d-9a75-4a2b-a3eb-e19cd8ce6ea4" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214756" src="https://github.com/user-attachments/assets/06cd6ad3-b215-4234-b1c7-74d0ab9cca70" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214709" src="https://github.com/user-attachments/assets/e230e713-cc48-4a08-bcc2-a6063a77279b" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214522" src="https://github.com/user-attachments/assets/5adf3d8d-9a75-4a2b-a3eb-e19cd8ce6ea4" />
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214103" src="https://github.com/user-attachments/assets/2ffede1b-a6f2-43f3-acd8-c49d72fb6715" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214037" src="https://github.com/user-attachments/assets/f133117b-bb32-4fc8-8e95-e5c39fc73660" />
