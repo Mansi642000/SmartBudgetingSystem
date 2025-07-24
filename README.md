@@ -59,21 +59,21 @@ Landing page with branding for Smart Budgeting System.
 ---
 
 ### 📝 Register Page
-![Register](./screenshots/Screenshot-2025-07-24-213026.png)  
+![Register]
 New users can register using name, email, and password.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213026" src="https://github.com/user-attachments/assets/f06ddded-e7ec-47a7-bcaa-a240ff0137d0" />
 
 ---
 
 ### 🔑 Login Page
-![Login](./screenshots/Screenshot-2025-07-24-213525.png)  
+![Login]
 Existing users log in securely to access the dashboard.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213525" src="https://github.com/user-attachments/assets/275f91cb-fd91-4519-882e-3e244b3938a5" />
 
 ---
 
 ### 📊 User Dashboard
-![Dashboard](./screenshots/Screenshot-2025-07-24-213614.png)  
+![Dashboard] 
 Provides buttons for all key operations: Add/Edit Expense, Set Budget, View Report, Predict Expenses.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213614" src="https://github.com/user-attachments/assets/e322e1ee-ba20-487e-9c98-87a03c47293b" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213550" src="https://github.com/user-attachments/assets/8a038e9d-5f2e-4d72-b491-9082000cc14e" />
@@ -81,20 +81,20 @@ Provides buttons for all key operations: Add/Edit Expense, Set Budget, View Repo
 ---
 
 ### ➕ Add Expense
-![Add Expense](./screenshots/Screenshot-2025-07-24-213746.png)  
+![Add Expense]
 Enter title, amount, date, and description to track a new expense.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213746" src="https://github.com/user-attachments/assets/2a1bbdf2-ab8a-48f8-aacd-ff6fa8d1579b" />
 
 ---
 
 ### 📋 View Expenses
-![View Expenses](./screenshots/Screenshot-2025-07-24-213824.png)  
+![View Expenses]
 Displays all expenses in a table with options to edit or delete.
-
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214440" src="https://github.com/user-attachments/assets/17ca4f07-df0a-43e8-aee9-31894c9687c8" />
 ---
 
 ### ✏️ Edit Expense
-![Edit Expense](./screenshots/Screenshot-2025-07-24-213855.png)  
+![Edit Expense] 
 Users can modify any previous entry's details.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213909" src="https://github.com/user-attachments/assets/af3e5de7-9bc4-4e48-b078-0fa300387884" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213855" src="https://github.com/user-attachments/assets/ea6ce72d-a325-40c9-8ef1-04ad0907060e" />
@@ -107,7 +107,7 @@ Users can modify any previous entry's details.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214756" src="https://github.com/user-attachments/assets/06cd6ad3-b215-4234-b1c7-74d0ab9cca70" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214709" src="https://github.com/user-attachments/assets/e230e713-cc48-4a08-bcc2-a6063a77279b" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214522" src="https://github.com/user-attachments/assets/5adf3d8d-9a75-4a2b-a3eb-e19cd8ce6ea4" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214440" src="https://github.com/user-attachments/assets/17ca4f07-df0a-43e8-aee9-31894c9687c8" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214103" src="https://github.com/user-attachments/assets/2ffede1b-a6f2-43f3-acd8-c49d72fb6715" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214037" src="https://github.com/user-attachments/assets/f133117b-bb32-4fc8-8e95-e5c39fc73660" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214005" src="https://github.com/user-attachments/assets/5c3cd738-d97f-42fb-9478-d157ca115cbe" />
