@@ -22,13 +22,14 @@ This project was developed to solve the problem of unorganized personal budgetin
 - **Monthly Budget Setting**  
   Allows users to set spending goals and compare them against actual expenses.
 
-- **Expense Visualization (Charts)**  
-  Uses bar/line charts to visualize monthly expenditure, making trends easy to understand.
+- **Viewing Report**  
+  View the expense of the month in comparision to the budget the amount left after expenditure in this month.
+  If you dont set the budget of the month then you wont be able to see the report
 
 - **Expense History Table**  
   Users can view, sort, and manage all past expenses in a structured tabular view.
 
-- **Machine Learning Prediction**  
+- **Machine Learning Prediction for next months expense**  
   Predicts future monthly expenses using a Linear Regression model from Python (scikit-learn).
 
 - **Clean & Responsive UI**  
@@ -86,13 +87,6 @@ Enter title, amount, date, and description to track a new expense.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213746" src="https://github.com/user-attachments/assets/2a1bbdf2-ab8a-48f8-aacd-ff6fa8d1579b" />
 
 ---
-
-### 📋 View Expenses
-![View Expenses]
-Displays all expenses in a table with options to edit or delete.
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214440" src="https://github.com/user-attachments/assets/17ca4f07-df0a-43e8-aee9-31894c9687c8" />
----
-
 ### ✏️ Edit Expense
 ![Edit Expense] 
 Users can modify any previous entry's details.
@@ -101,13 +95,26 @@ Users can modify any previous entry's details.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213909" src="https://github.com/user-attachments/assets/af3e5de7-9bc4-4e48-b078-0fa300387884" />
 ---
 
-## 📈 Visualization Snapshot  
+### 📋 Set Monthly Budget
+user sets the budget of the month 
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214005" src="https://github.com/user-attachments/assets/5c3cd738-d97f-42fb-9478-d157ca115cbe" />
+
+### 📋 View Expenses Report
+![View Expenses]
+Displays all expenses in a table with options to edit or delete.
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214522" src="https://github.com/user-attachments/assets/5adf3d8d-9a75-4a2b-a3eb-e19cd8ce6ea4" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214756" src="https://github.com/user-attachments/assets/06cd6ad3-b215-4234-b1c7-74d0ab9cca70" />
+If no Budget is set for the month
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214103" src="https://github.com/user-attachments/assets/2ffede1b-a6f2-43f3-acd8-c49d72fb6715" />
+---
+## 📈 Next month prediction 
+pediction before adding a new expense
+
+
+Prediction after adding a new expense
+
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214709" src="https://github.com/user-attachments/assets/e230e713-cc48-4a08-bcc2-a6063a77279b" />
 
 
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214103" src="https://github.com/user-attachments/assets/2ffede1b-a6f2-43f3-acd8-c49d72fb6715" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214037" src="https://github.com/user-attachments/assets/f133117b-bb32-4fc8-8e95-e5c39fc73660" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214005" src="https://github.com/user-attachments/assets/5c3cd738-d97f-42fb-9478-d157ca115cbe" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 213945" src="https://github.com/user-attachments/assets/ffe07d29-e392-41d2-ada5-d25cae0b30dd" />
