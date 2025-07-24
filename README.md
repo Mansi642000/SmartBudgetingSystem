@@ -108,13 +108,6 @@ If no Budget is set for the month
 ---
 ## 📈 Next month prediction 
 pediction before adding a new expense
-
-
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 225024" src="https://github.com/user-attachments/assets/f2b117f8-c5fb-4059-8485-07311d133b99" />
 Prediction after adding a new expense
-
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214709" src="https://github.com/user-attachments/assets/e230e713-cc48-4a08-bcc2-a6063a77279b" />
-
-
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214037" src="https://github.com/user-attachments/assets/f133117b-bb32-4fc8-8e95-e5c39fc73660" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213945" src="https://github.com/user-attachments/assets/ffe07d29-e392-41d2-ada5-d25cae0b30dd" />
