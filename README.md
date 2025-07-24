@@ -45,7 +45,7 @@ This project was developed to solve the problem of unorganized personal budgetin
 | Backend      | Java (Servlets), JDBC                        |
 | Database     | MySQL                                        |
 | ML           | Python, scikit-learn (Linear Regression)     |
-| Visualization| JavaScript Chart Library / JSP-integrated charts |
+| Visualization| Python (Matplotlib)                          |
 | Tools        | Eclipse, VS Code, Apache Tomcat, GitHub      |
 
 ---
