@@ -52,8 +52,26 @@ This project was developed to solve the problem of unorganized personal budgetin
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/Screenshot-2025-07-24-212801.png)  
+![Home Page]
 Landing page with branding for Smart Budgeting System.
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214756" src="https://github.com/user-attachments/assets/bd4ef002-2619-4590-af6f-00850f19a2b9" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214709" src="https://github.com/user-attachments/assets/21901f40-970e-450f-81b5-1fbefa0ef84b" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214522" src="https://github.com/user-attachments/assets/7c38d58e-1433-4963-b413-b8692533ddac" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214440" src="https://github.com/user-attachments/assets/66aed7d9-7b58-497d-a8df-030a80ca040f" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214103" src="https://github.com/user-attachments/assets/ca09c811-67fc-419c-beb5-05b78de9a55e" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214037" src="https://github.com/user-attachments/assets/58490995-9ce8-4486-bdb7-55cae1f16b32" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 214005" src="https://github.com/user-attachments/assets/7112c0dd-ed31-411e-98ab-424917ba3261" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213945" src="https://github.com/user-attachments/assets/87edde00-37bb-4b85-96fc-e5415287e4ea" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213909" src="https://github.com/user-attachments/assets/f06e2130-bcf0-4fa9-aa64-9bcb2ba22b42" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213855" src="https://github.com/user-attachments/assets/a1a20f43-6fdc-4dc0-b23a-f6d1781cd859" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213824" src="https://github.com/user-attachments/assets/b896d41f-dd08-4972-9d1d-7c4cf45aec04" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213746" src="https://github.com/user-attachments/assets/f7c621b9-fb8b-4810-97eb-0f00bd393722" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213614" src="https://github.com/user-attachments/assets/3690f390-fd68-4d93-b6a9-78ee5ce04eb3" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213550" src="https://github.com/user-attachments/assets/069098a2-a19e-4579-a955-1f625bce4676" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213525" src="https://github.com/user-attachments/assets/fa7f6e46-b78d-4709-af6e-9d7517c50781" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213446" src="https://github.com/user-attachments/assets/68c46c56-8c01-4c3a-9ff7-5f8670331cf5" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 213026" src="https://github.com/user-attachments/assets/2fabcf0f-0e19-4e2b-a4c7-23f9a5d39033" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 212801" src="https://github.com/user-attachments/assets/763ea3c5-b0c2-4731-afff-e33e98943486" />
 
 ---
 
@@ -94,25 +112,4 @@ Users can modify any previous entry's details.
 ---
 
 ## 📈 Visualization Snapshot  
-*(If you captured your chart-based report, you can add a screenshot and link here)*  
-```markdown
-![Visualization](./screenshots/visualization.png)  
-Displays monthly expense summary using bar or line chart.
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214756" src="https://github.com/user-attachments/assets/d0cb0ec2-6460-4ed5-b682-26bb98d0cd9a" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214709" src="https://github.com/user-attachments/assets/d06e7023-747f-4519-9f05-045cee0d5a86" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214522" src="https://github.com/user-attachments/assets/c6dc8850-4ef8-4d3d-bd32-2b1bf3963074" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214440" src="https://github.com/user-attachments/assets/12476afc-e0e8-4cf5-9be8-885356929f0e" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214103" src="https://github.com/user-attachments/assets/1a6cad09-19e7-459a-87c4-58397cc20f09" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214037" src="https://github.com/user-attachments/assets/6d5ee98b-5887-4db6-b945-ac7d869331a3" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 214005" src="https://github.com/user-attachments/assets/505ec166-88cc-4a4a-95d3-3dff049cf977" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213945" src="https://github.com/user-attachments/assets/fe21fe0c-1943-402b-b7bd-d86403f25d4e" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213909" src="https://github.com/user-attachments/assets/17eedf8d-210e-4c28-9aea-7bab51e9f814" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213855" src="https://github.com/user-attachments/assets/a5d7d3e0-7249-4b2c-807b-b221d6d0f287" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213824" src="https://github.com/user-attachments/assets/46de5b8f-8dbd-4d3e-8140-0f02e27d31ef" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213746" src="https://github.com/user-attachments/assets/5c96aea2-01fe-4578-8071-b1198bca0574" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213614" src="https://github.com/user-attachments/assets/96163d32-0cd7-4e25-95dd-cd4cc267a52a" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213550" src="https://github.com/user-attachments/assets/97326b89-1378-44f6-b85f-e069cc488c51" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213525" src="https://github.com/user-attachments/assets/d6cbb1d1-24e6-4ff6-b3ab-17bb9e98845a" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213446" src="https://github.com/user-attachments/assets/03a28b83-4e18-4d2b-ab10-e3bbd7f9bd01" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 213026" src="https://github.com/user-attachments/assets/a56a03da-f190-4e2a-b1d5-2f77e7b0d665" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 212801" src="https://github.com/user-attachments/assets/d60354e1-1178-4705-9fca-23a14ccda105" />
+
