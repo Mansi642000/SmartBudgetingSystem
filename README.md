@@ -110,3 +110,5 @@ pediction before adding a new expense
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 225024" src="https://github.com/user-attachments/assets/f2b117f8-c5fb-4059-8485-07311d133b99" />
 Prediction after adding a new expense
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 214709" src="https://github.com/user-attachments/assets/e230e713-cc48-4a08-bcc2-a6063a77279b" />
+
+Follow this link to checkout http://localhost:8080/Smart_Budgeting_System/
