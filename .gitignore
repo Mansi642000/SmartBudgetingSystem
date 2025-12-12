@@ -1,0 +1,11 @@
+target/
+.env
+mvn-build-output.txt
+.vscode/
+.classpath
+.project
+.settings/
+*.log
+*.tmp
+/.idea/
+*.iml
