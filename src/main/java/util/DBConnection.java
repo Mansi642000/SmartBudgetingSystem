@@ -20,7 +20,7 @@ public class DBConnection {
             }
             String password = System.getenv("DB_PASS");
             if (password == null) {
-                password = ""; // fallback to empty; set DB_PASS explicitly in production
+                password = "Mansi@642000"; // fallback to empty; set DB_PASS explicitly in production
             }
             conn = DriverManager.getConnection(url, user, password);
         } catch (Exception e) {
